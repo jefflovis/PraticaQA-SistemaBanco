@@ -3,3 +3,7 @@ Uma demonstração prática de teste de software para um sistema bancário utili
 
 No código foram introduzidos alguns bugs e o objetivo foi corrigir os bugs (ainda restam alguns bugs) e escrever testes Junit para atingir uma boa cobertura de branchs
 e matar os mutantes gerados pela ferramenta Pit.
+
+Demonstração:
+
+![Prática QA](https://github.com/jefflovis/PraticaQA-SistemaBanco/blob/main/New-Project.gif?raw=true)
